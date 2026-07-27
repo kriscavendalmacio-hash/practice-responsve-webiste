@@ -69,7 +69,7 @@ nav ul li a:hover {
     width: 100%;
     min-height: 100dvh;
 
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/lambhorghini_picture/lambhorghini background0464a3faaff67ee099811a65e48c4883.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('lambhorghini_picture/lambhorghini background0464a3faaff67ee099811a65e48c4883.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
